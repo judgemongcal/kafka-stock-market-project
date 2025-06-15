@@ -41,6 +41,7 @@ The dataset used for this project contains historical stock market data with mor
 
 ## Kafka Producer and Consumer Scripts
 - [**Producer**](/kafka-files/kafka_producer.ipynb)
+- [**Consumer**](/kafka-files/kafka_consumer.ipynb)
 
 ## Data Flow Summary
 
